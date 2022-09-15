@@ -1,0 +1,6 @@
+output_dir: "."
+navbar:
+    title: "2022 AAAR Videos"
+    left:
+      - text: "Videos"
+        href: index.html

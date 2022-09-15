@@ -1,0 +1,42 @@
+---
+title: "2022 AAAR Aerosol Video Competition"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+    theme: readable
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(vembedr)
+```
+
+Below are the finalists for the 2022 AAAR Aerosol Video Competition. Please vote by casting your paper ballots (included in your AAAR registration package) at the membership booth!
+
+## Video 1
+_Placeholder Entry Names_
+```{r video1, include=TRUE,echo=FALSE,warning=FALSE}
+embed_youtube("FsJ1bSWPmIw")
+```
+
+
+## Video 2
+_Placeholder Entry Names_
+```{r video2, include=TRUE,echo=FALSE,warning=FALSE}
+embed_youtube("FsJ1bSWPmIw")
+```
+
+
+## Video 3
+_Placeholder Entry Names_
+```{r video3, include=TRUE,echo=FALSE,warning=FALSE}
+embed_youtube("FsJ1bSWPmIw")
+```
+
+
+## Video 4
+_Placeholder Entry Names_
+```{r video4, include=TRUE,echo=FALSE,warning=FALSE}
+embed_youtube("FsJ1bSWPmIw")
+```
