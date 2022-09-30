@@ -4,3 +4,8 @@ navbar:
     left:
       - text: "Videos"
         href: index.html
+      - text: "Art: Microscopic"
+        href: art.html
+      - text: "Art: Larger"
+        href: art-larger.html
+        

@@ -14,6 +14,8 @@ library(vembedr)
 
 Below are the finalists for the 2022 AAAR Aerosol Video Competition. Please vote by casting your paper ballots (included in your AAAR registration package) at the membership booth!
 
+You can view the art entries via the navigation bar at the top of the page (separated into <1 micron and >1 micron)
+
 ---
 
 ## Video #1: E-cig Aerosol Dynamics in the Lung
