@@ -12,12 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 library(vembedr)
 ```
 
-Below are the finalists for the 2022 AAAR Aerosol Fine Art Competition: Non-Microscopic (Larger) Scale. Please vote by casting your paper ballots (included in your AAAR registration package) at the membership booth! You can vote for your favorite entry in two categories:
+Below are the finalists for the 2022 AAAR Aerosol Fine Art Competition: Non-Microscopic (Larger) Scale. Please vote by casting your paper ballots (included in your AAAR registration package) at the membership booth! You can vote for your favorite entry in three categories:
 
-1. Microscopic Scale
-2. Non-Microscopic (Larger) Scale
+1. Video
+2. Microscopic Scale
+3. Non-Microscopic (Larger) Scale
 
-Entries for the Microscopic Scale as well as the videos can be viewed via the navigation bar at the top of the page.
+Entries for the Microscopic Scale as well as the Videos can be viewed via the navigation bar at the top of the page.
 
 ---
 

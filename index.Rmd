@@ -12,9 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 library(vembedr)
 ```
 
-Below are the finalists for the 2022 AAAR Aerosol Video Competition. Please vote by casting your paper ballots (included in your AAAR registration package) at the membership booth!
+Below are the finalists for the 2022 AAAR Aerosol Video Competition. Please vote by casting your paper ballots (included in your AAAR registration package) at the membership booth! You can vote for your favorite entry in three categories:
 
-You can view the art entries via the navigation bar at the top of the page (separated into <1 micron and >1 micron)
+1. Video
+2. Art: Microscopic Scale
+3. Art: Non-Microscopic (Larger) Scale
+
+Entries for the Art Competition (both scales) can be viewed via the navigation bar at the top of the page.
 
 ---
 
