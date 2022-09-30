@@ -1,6 +1,6 @@
 output_dir: "."
 navbar:
-    title: "2022 AAAR Videos"
+    title: "2022 AAAR Art Competition"
     left:
       - text: "Videos"
         href: index.html

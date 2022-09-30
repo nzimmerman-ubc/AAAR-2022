@@ -14,29 +14,46 @@ library(vembedr)
 
 Below are the finalists for the 2022 AAAR Aerosol Video Competition. Please vote by casting your paper ballots (included in your AAAR registration package) at the membership booth!
 
-## Video 1
-_Placeholder Entry Names_
+---
+
+## Video #1: E-cig Aerosol Dynamics in the Lung
+_Haoxuan Chen (University of California, Los Angeles), Airi Harui (University of California, Los Angeles), Yu Feng (Oklahoma State University), Michael D. Roth (University of California, Los Angeles), Yifang Zhu (University of California, Los Angeles)_
+
+>Find out what happened to e-cigarette aerosols after being inhaled into the lungs in this video! Researchers from UCLA and Oklahoma State University developed a ventilated artificial lung system fitted with 3D-printed human airways. The artificial lung has a temperature and humidity close to the real human lungs and can continuously breathe and vape!
+
 ```{r video1, include=TRUE,echo=FALSE,warning=FALSE}
-embed_youtube("FsJ1bSWPmIw")
+embed_youtube("i63Q_jo3qwo")
 ```
 
+---
 
-## Video 2
-_Placeholder Entry Names_
+## Video #2: Aerosol Particles and Their Morphology
+_Kotiba Malek (University of Maryland, College Park) and Dewansh Rastogi (University of Maryland, College Park)_
+
+>The morphology of aerosols has been a point of interest within the aerosol community. Aerosol particles are shown, using available instrumentations, to come in a variety of shapes: spherical and no-spherical. &nbsp; What was once assumed to be only spherical in shape, the observed non-sphericity of aerosols have highlighted the importance of visualizing the aerosol particles and the characterization of their diameter sizes
+
 ```{r video2, include=TRUE,echo=FALSE,warning=FALSE}
-embed_youtube("FsJ1bSWPmIw")
+embed_youtube("wF3HKJxcp7c")
 ```
 
+---
 
-## Video 3
-_Placeholder Entry Names_
+## Video #3: Visualisation of Respiratory Plume
+_Rory Monro (Fisher & Paykel), Dr. Jean Marshall, Mike Ronayne_
+
+>Where does our breath go, and what is in it? We combine compelling CO2 videos with particle counting, to spark vital dialog on infection risk.
+
 ```{r video3, include=TRUE,echo=FALSE,warning=FALSE}
-embed_youtube("FsJ1bSWPmIw")
+embed_youtube("Ytmkk6tJRaw")
 ```
 
+---
 
-## Video 4
-_Placeholder Entry Names_
+## Video #4: Aerosol Light Interactions
+_Shruti Choudhary (University of Miami); Shalinee Kavadiya (University of Miami); and Pratim Biswas (University of Miami)_
+
+>Imagine the richly colored sunset, rainbows, and pilot announcing the visibility on your flight to Raleigh, aerosol-light interactions are responsible for these phenomena. When aerosols interact with light, they absorb some and scatter the rest, which results in visible phenomena we see. Like, black smoke looks black because the aerosols absorb visible light. This video describes a visual demonstration of aerosol light interactions.
+
 ```{r video4, include=TRUE,echo=FALSE,warning=FALSE}
-embed_youtube("FsJ1bSWPmIw")
+embed_youtube("sHGcYhef9vs")
 ```
